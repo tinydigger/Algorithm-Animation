@@ -1,5 +1,5 @@
 # 一个通过动画演示常用算法和数据结构的微信小程序 
-# A Wechat mini program to illustrate algorithms and structures with animation.
+# A Wechat mini program to illustrate algorithms and structures with animation
 
 请用微信扫码使用
 Please scan the QR code with Wechat
